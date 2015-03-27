@@ -20,9 +20,6 @@
       "url": "http://github.com/atom/event-kit/raw/master/LICENSE.md"
     }
   ],
-  "dependencies": {
-    "grim": "^1.0.0"
-  },
   "devDependencies": {
     "coffee-cache": "^0.2.0",
     "coffee-script": "^1.7.0",
